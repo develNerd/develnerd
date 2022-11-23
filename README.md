@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about general tech stuff.
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... We can literally build anyhthing
 
 
 
