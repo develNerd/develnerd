@@ -6,15 +6,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently an Mobile Developer(Android Native and IOS)
-- I', Excited about KMM
+- 🔭 I’m currently a Mobile Developer(Android Native and IOS)
+- I'm Excited about KMM
 - 🌱 I’m currently learning Robotics
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with robotics
 - 💬 Ask me about general tech stuff.
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ... We can literally build anyhthing
 
 
 
